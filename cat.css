@@ -1,0 +1,52 @@
+body
+{background-color:lavenderblush;
+    font-size: 20px;
+
+}
+
+h1
+{font-family: Arial, Verdana, sans-serif;
+  text-align: center;
+  color: dimgray;
+  font-size: 200%; 
+    border-bottom: 2px solid rgb(7, 37, 2); 
+    font-weight: normal; 
+    padding-bottom: 5px; 
+}
+h2
+  {font-family: Arial, Verdana, sans-serif;
+      text-align: center;}
+
+ul
+{ margin-top: 50px;
+    margin-bottom: 50px;
+    margin-left: 0;
+    margin-right: 0;
+    padding-top: 0;
+    padding-bottom: 0;
+    padding-left: 50px;
+    padding-right: 50px;}
+    
+dd, dt 
+    {
+        line-height: 1.5;}
+    dt {
+            font-weight: bold;
+          }
+          
+dd {
+            margin-bottom: 1.5rem;
+          }
+
+    .center-pic{
+        display:block;
+        margin:auto;
+        }
+        .fig {
+            display: block; /* Блочный элемент (для старых браузеров) */
+            text-align: center; /* Выравнивание по центру */
+            font-style: bold; 
+            margin-top: 0; /* Отступ сверху */
+            margin-bottom: 5px; /* Отступ снизу */
+            color: #666; /* Цвет подрисуночной подписи */
+           }
