@@ -50,3 +50,12 @@ dd {
             margin-bottom: 5px; /* Отступ снизу */
             color: #666; /* Цвет подрисуночной подписи */
            }
+  .button {
+            width: 100px;
+            height: 30px;
+            margin-top: 32px;
+            background-color: rgb(158, 208, 208);
+        }
+        .div {
+            align-items: center;
+        }
